@@ -2,6 +2,7 @@
 Attendance Management System using UI/UX in Figma
 
 INSIGNIA
+
 An Employee Attendance System
 
 The technical task assigned by “PHISCAPE” for the role of ‘UI/UX Designer’ is to design and implement a comprehensive ‘Attendance Management System’. Technical requirements included separate authentication systems for Admin and Employee logins, as well as options to register themselves. In the Admin interface, the Admin can view the list of employees along with their basic details, attendance and leaves applied by them. Admins can review and manage the leave applications by rejecting or approving them using corresponding buttons. In the Employee interface, Punch In and Punch Out functionalities to record date and time to mark attendance, and an option to apply for leave are provided. They can also view the status of the leaves applied by them.
