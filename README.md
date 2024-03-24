@@ -1,19 +1,18 @@
 # Attendance-Management-System-using-UI-UX
 Attendance Management System using UI/UX in Figma
 
-INSIGNIA
-
-An Employee Attendance System
+**INSIGNIA - An Employee Attendance System**
+                                                          
 
 The technical task assigned by “PHISCAPE” for the role of ‘UI/UX Designer’ is to design and implement a comprehensive ‘Attendance Management System’. Technical requirements included separate authentication systems for Admin and Employee logins, as well as options to register themselves. In the Admin interface, the Admin can view the list of employees along with their basic details, attendance and leaves applied by them. Admins can review and manage the leave applications by rejecting or approving them using corresponding buttons. In the Employee interface, Punch In and Punch Out functionalities to record date and time to mark attendance, and an option to apply for leave are provided. They can also view the status of the leaves applied by them.
 
 For this purpose, I designed a platform adhering to these requirements using the UI/UX feature in Figma. ‘INSIGNIA’ is the name of the prototype I designed which means ‘a sign or mark that distinguishes a person's rank, grade, function, or group’ or ‘a symbol of personal power’. In this file, the main page shows the name and logo of the platform, and also an arrow sign which when clicked on takes you to the Login page. Here there are two options for the user to select- Admin or Employee. The user can fill in their username and password and login in. If it is a new user, they can create a new account by clicking on ‘Register here’ and sign in using their newly created credentials. There is also an option to reset the password in case you forgot the password and then log in again using the new password. Both the Admin and Employee have the same feature for authentication purpose.
 
-ADMIN INTERFACE :
+**ADMIN INTERFACE :**
 
 When the Admin logs in, they are redirected to the Admin Dashboard from the login tab. This tab includes a side menu which are common to all other tabs and it has different options to select from. Using this side panel, we can navigate to other tabs from any tab. The ‘Dashboard’ gives an overview of the system by showing the attendance, report, leave applications pending and the employee count. From this tab you can navigate to other tabs by utilising the side menu. When you select the ‘Employees’ tab, you get a list of employees registered in this platform along with few of their basic details (for reference, 10 sample employee details are provided). For a more detailed view, each of the employee’s details can be viewed separately by clicking on their names. This tab gives their basic information, experience, salary, monthly attendance, number of leaves they have applied for and a graph depicting their performance. From this tab they can select ‘Leaves applied for’ to go to the ‘Leave Applications’ tab or by selecting from the side menu. In this tab, we can see the leave applications and the status of each. If an Admin wants to approve or reject a pending application, they can click on the edit option near the corresponding application where they can either reject or approve it by selecting the respective buttons. This updates the status of the application. Next is the ‘Reports’ tab which gives the statistics of the employees attendance. Lastly there is the ‘Message’ tab which can be accessed from the side menu or by clicking the mail icon on the top right corner. Now, when we click on the profile icon on the top right corner of any tab, we get redirected to the ‘Dashboard’ where there is an additional option to ‘Logout’ which when clicked goes to the main page by logging out the Admin.
 
-EMPLOYEE INTERFACE:
+**EMPLOYEE INTERFACE:**
 
 When an Employee logs in, they are redirected to the Employee Dashboard from the login tab. This tab also includes a side menu which are common to all other tabs and has different options to select from. Using this, we can navigate to other tabs from any tab. Similar to the Admin Dashboard, it also gives an overview of the system by showing the attendance, report and leave applications status. From this tab we can choose any other tabs we need to access from the side pane. We can view the profile of the employee by clicking on ‘Profile’ tab or my clicking the profile icon on the top right corner. This tab too gives their basic information, experience, salary, monthly attendance, number of leaves they have applied for and a graph depicting their performance similar to that in the Admin’s interface. From this tab they can select ‘Leaves applications’ to check the status of their applied leaves. In this tab, we can see the leave applications and the status of each. When you select the ‘Calendar’ tab we can see  a monthly view of attendance. Next when we click on the ‘Reports’ tab we can see a chart depicting the average attendance rate. In documents tab, we can upload necessary documents related to the job. An employee can mark their attendance by accessing the ‘Mark Attendance’ tab where the user can punch-in or punch-out by recording the corresponding date and time. They can use the ‘Apply For Leave’ tab to submit their leave applications by specifying the date, duration and reason. In the same tab there is an option, ‘Check Status’ to check the status of  their applied leaves. Lastly there is the ‘Message’ tab which can be accessed from the side menu or by clicking the mail icon on the top right corner. Next, when we click on the profile icon on the top right corner of any tab, we get redirected to the ‘Profile’ tab where there is an additional option to ‘Logout’ which when clicked logs the user out and goes to the main page.
 
@@ -26,6 +25,6 @@ Kindly go through the prototype I have designed by presenting the link I have me
 
 [https://www.figma.com/file/8jSOfOgWKBTITjoLYsMMTn/Attendance-Management-System?type=design&node-id=42%3A713&mode=design&t=YjyIPrBLMOGayvdF-1](https://www.figma.com/file/8jSOfOgWKBTITjoLYsMMTn/Attendance-Management-System?type=design&node-id=42%3A713&mode=design&t=YjyIPrBLMOGayvdF-1)
 
-JOCELYN ANN JOSEPH
+**JOCELYN ANN JOSEPH**
 
-Sree Buddha College of Engineering, Pattoor, Alappuzha
+**Sree Buddha College of Engineering, Pattoor, Alappuzha**
